@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-core
+langgraph
+pydantic
+openmeteo-requests
+requests-cache
+retry-requests
+streamlit
